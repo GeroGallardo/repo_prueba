@@ -1,7 +1,26 @@
+
 h1{
     color: burlywood;
 }
 
 p{
     align-self: center;
+}
+body{ padding: 0px;
+    margin: 0px;}
+
+.titulos{
+    color: blue;
+    text-align: center;
+    font-size: 5rem ;
+}
+
+h1{
+    color: blue;
+}
+
+p{
+    font-size: x-large;
+    font-weight: bolder;
+    color: burlywood;
 }
